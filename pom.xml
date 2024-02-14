@@ -34,7 +34,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <solr.version>9.0.0</solr.version>
+    <solr.version>9.4.1</solr.version>
   </properties>
 
   <dependencies>
